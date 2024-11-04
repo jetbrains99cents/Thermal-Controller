@@ -1,0 +1,10 @@
+2024-11-04 08:28:42: System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at LunaNexus_Education_Board.MainWindow.OnDataReceivedHandle(Object sender, SerialDataReceivedEventArgs e) in D:\Works\Projects\Education\Education_Board_Basic\LunaNexus_Education_Board\MainWindow.xaml.cs:line 262 
+2024-11-04 08:28:45: System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at LunaNexus_Education_Board.MainWindow.OnDataReceivedHandle(Object sender, SerialDataReceivedEventArgs e) in D:\Works\Projects\Education\Education_Board_Basic\LunaNexus_Education_Board\MainWindow.xaml.cs:line 262 

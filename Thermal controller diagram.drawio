@@ -1,0 +1,184 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="UuAY0sQX3xyaB8vxz-R_">
+    <mxGraphModel dx="1509" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="53JuCr9bTwa0AHgGMekC-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Thermal controller project overview&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="535" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-2" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;MCU: Renesas RL78/G23&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="699" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.thegioiic.com/upload/large/26366.jpg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.mouser.vn/images/renesas/images/LFQFP-64_SPL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Thermal sensor: AE-BME680&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="699" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-10" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;FT232RL USB to TTL UART&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="699" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.thegioiic.com/upload/large/31696.jpg;" vertex="1" parent="1">
+          <mxGeometry x="875" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/1/1a/Crystal_Project_computer.png;" vertex="1" parent="1">
+          <mxGeometry x="875" y="810" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1050" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1040" as="sourcePoint" />
+            <mxPoint x="1120" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1150" as="sourcePoint" />
+            <mxPoint x="790" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="1150" as="sourcePoint" />
+            <mxPoint x="1130" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1150" as="sourcePoint" />
+            <mxPoint x="1120" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/445/MFG_ATM0177B3A-T.jpg;" vertex="1" parent="1">
+          <mxGeometry x="545" y="210" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-20" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;Display module:&amp;nbsp;&lt;/font&gt;&lt;h1 style=&quot;--tw-shadow: 0 0 #0000; color: rgb(34, 34, 34); display: inline-block; padding: 0px; margin: 0px; font-size: 18px; box-sizing: inherit; text-align: left; line-height: 18px; font-family: Roboto, &amp;quot;Noto Sans&amp;quot;, Arial, Helvetica, sans-serif, dk; background-color: rgb(255, 255, 255);&quot; class=&quot;tss-css-tgn1kn-tdBreak-manuProductNumber&quot;&gt;ATM0177B3A-T&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="380" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-21" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.microchip.com/content/dam/mchp/mrt-dam/products/poe/150813-WPG-PHOTO-RN4870-Angle-Transparent.jpg;" vertex="1" parent="1">
+          <mxGeometry x="875" y="240" width="180.35" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-22" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;BLE module: RN4870&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="380" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-23" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;WiFi module: ESP8266&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-24" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://bizweb.dktcdn.net/thumb/grande/100/337/109/products/esp-wroom-02-1.jpg?v=1557922727433;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="620" as="sourcePoint" />
+            <mxPoint x="530" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-26" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="614" as="sourcePoint" />
+            <mxPoint x="870" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="935" y="800" as="sourcePoint" />
+            <mxPoint x="935" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-28" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="935" y="1030" as="sourcePoint" />
+            <mxPoint x="935" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-29" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="300" y="420" as="sourcePoint" />
+            <mxPoint x="530" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="614.47" y="514" as="sourcePoint" />
+            <mxPoint x="614.47" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="705" y="580" as="sourcePoint" />
+            <mxPoint x="960" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-33" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://nshopvn.com/wp-content/uploads/2019/03/led-rgb-10mm-2-chan-J6AN-2020-600x600.jpg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="830" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB Led&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="980" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="740" as="sourcePoint" />
+            <mxPoint x="330" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-36" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://m.media-amazon.com/images/I/61BGvIZSb4L._AC_UF1000,1000_QL80_.jpg;" vertex="1" parent="1">
+          <mxGeometry x="546.5799999999999" y="950" width="136.84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Buzzer&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1080" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="740" as="sourcePoint" />
+            <mxPoint x="610" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-39" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;Hardware:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="150" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-40" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 18px;&quot;&gt;Software:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1190" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MCU (Renesas RL78/G23) Firmware&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.50000000000006" y="1370" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Python Program&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1370" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MCU (ESP8266) Firmware&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70.00000000000006" y="1300" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MCU (RN4870) Firmware&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70.00000000000006" y="1440" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-46" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="530" y="1450" as="sourcePoint" />
+            <mxPoint x="400" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-47" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="520" y="1350" as="sourcePoint" />
+            <mxPoint x="395" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="927.5" y="1399.47" as="sourcePoint" />
+            <mxPoint x="800" y="1399.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53JuCr9bTwa0AHgGMekC-49" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://media.geeksforgeeks.org/wp-content/uploads/graph-plotting-2.png;" vertex="1" parent="1">
+          <mxGeometry x="990.29" y="1050" width="114.71" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
